@@ -1,1 +1,1 @@
-# intiger_to_binary
+# Binary Converter
